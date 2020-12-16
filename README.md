@@ -1,3 +1,3 @@
-# dev
-The designer
-import sanskrit syam
+# देव
+अहं समनुविधतृ
+आयात संस्कृतं श्याम्
